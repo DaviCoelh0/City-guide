@@ -66,7 +66,8 @@ body {
     margin: 50px auto;
     background: #6C8987;
     color: #203131;
-    border-radius: 8px;
+    border-radius: 8px 8px 0 0;
+    border-bottom: 8px solid #32382E;
 }
 
 #guide-img {
@@ -80,7 +81,7 @@ body {
 }
 
 #guide-quote {
-    margin-top: 70px;
+    margin-top: 80px;
 }
 
 /*5B6654*/
